@@ -1,6 +1,6 @@
 ## Project Overview
 
-This is an end-to-end system analytics proof of concept designed around homelessness services and Continuum of Care (CoC) reporting environments.
+This is an end-to-end system analytics proof of concept demonstrating reporting, data quality monitoring, and program evaluation in a homelessness services and Continuum of Care (CoC) context.
 
 The project demonstrates:
 - System-level performance reporting
