@@ -1,6 +1,6 @@
 ## Project Overview
 
-This is an end-to-end System Data Analyst proof of concept aligned to the responsibilities of a Continuum of Care (CoC) data role.
+This is an end-to-end system analytics proof of concept designed around homelessness services and Continuum of Care (CoC) reporting environments.
 
 The project demonstrates:
 - System-level performance reporting
